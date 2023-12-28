@@ -6,8 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class BackendApplication {
 
-    //테스트용 주석
-    //테스트용 주석2
     public static void main(String[] args) {
         SpringApplication.run(BackendApplication.class, args);
     }
