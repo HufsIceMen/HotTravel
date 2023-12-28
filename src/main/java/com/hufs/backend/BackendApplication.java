@@ -7,8 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BackendApplication {
 
     public static void main(String[] args) {
-
+        //푸시 확인 주석
         SpringApplication.run(BackendApplication.class, args);
     }
-
 }
